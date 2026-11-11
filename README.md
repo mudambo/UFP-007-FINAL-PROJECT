@@ -1,0 +1,1 @@
+This Note Pad is for the Project
